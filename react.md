@@ -67,7 +67,7 @@ N/A*
 
 ### i18n
 
-N/A*
+- [ ] Setting up support for i18n*
 
 ### Storybook
 
