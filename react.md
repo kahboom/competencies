@@ -22,6 +22,7 @@ Please note, even if you don't use some of these approaches, it's important to s
 - [ ] Webpack
 - [ ] CSS in JS
 - [ ] SCSS*
+- [ ] JSX & rendering elements
 
 ### Components
 
@@ -31,15 +32,12 @@ Please note, even if you don't use some of these approaches, it's important to s
 - [ ] Component patterns: Render props pattern
 - [ ] Component patterns: High-order components
 
-### Forms
+### Events, Routing & State
 
-- [ ] Controlled forms, inputs
-- [ ] Generic component forms
-- [ ] Form validation
-- [ ] Form submission
-
-### Routing & App State
-
+- [ ] State & lifecycle
+- [ ] Event handling
+- [ ] Conditional rendering
+- [ ] Lists and keys
 - [ ] React Router, declaring routes
 - [ ] Navigation items
 - [ ] Route parameters
@@ -47,6 +45,13 @@ Please note, even if you don't use some of these approaches, it's important to s
 - [ ] Nested routes
 - [ ] Lazy loading
 - [ ] React Redux*
+
+### Forms
+
+- [ ] Controlled forms, inputs
+- [ ] Generic component forms
+- [ ] Form validation
+- [ ] Form submission
 
 
 ### HTTP
