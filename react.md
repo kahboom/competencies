@@ -61,6 +61,7 @@ Please note, even if you don't use some of these approaches, it's important to s
 - [ ] Working GraphQL RESTful APIs*
 - [ ] GraphQL w/ axios*
 - [ ] GraphQL w/ Apollo*
+- [ ] Authentication & authorization
 
 ### Models
 
