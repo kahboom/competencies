@@ -69,7 +69,9 @@ N/A*
 
 ### Tests
 
+- [ ] Code coverage
 - [ ] Unit testing with Jest*
+- [ ] E2E testing?* (research)
 
 ### i18n
 
